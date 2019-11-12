@@ -34,6 +34,7 @@ print("Your full name has " + str(len(fullName)) + " parts.")
 
 # However, you can force an automatic variable type through declaration
 speed = float(65.0)
+speed2 = int(66)
 
 # You will need to use a function if you wish to combine a a numeric and string output
 print(name + " is " + str(age) + " years old.")
